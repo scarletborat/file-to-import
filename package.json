@@ -6,6 +6,7 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
   "devDependencies": {
